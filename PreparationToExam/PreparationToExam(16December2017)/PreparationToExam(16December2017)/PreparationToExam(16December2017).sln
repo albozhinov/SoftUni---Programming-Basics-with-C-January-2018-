@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ChristmasPreparation", "P01.ChristmasPreparation\P01.ChristmasPreparation.csproj", "{44B949FA-74B8-48B4-8FF9-008975210358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.DeerOfSanta", "P02.DeerOfSanta\P02.DeerOfSanta.csproj", "{03706C76-4AB0-44E1-BBD3-739C4B438485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.SantasHoliday", "P03.SantasHoliday\P03.SantasHoliday.csproj", "{1EFF4271-F85A-489A-BA33-F4C21AD2EF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.DwarfPresents", "P04.DwarfPresents\P04.DwarfPresents.csproj", "{A8986FCC-7855-4F3C-A0F1-429D2661153B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.ChristmasToy", "P05.ChristmasToy\P05.ChristmasToy.csproj", "{EB9B0F14-FFB9-4B08-91C4-B79F1BD38663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.BarcodeGenerator", "P06.BarcodeGenerator\P06.BarcodeGenerator.csproj", "{4E2C463F-8232-4547-941C-3119D8943B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B949FA-74B8-48B4-8FF9-008975210358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B949FA-74B8-48B4-8FF9-008975210358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B949FA-74B8-48B4-8FF9-008975210358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B949FA-74B8-48B4-8FF9-008975210358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03706C76-4AB0-44E1-BBD3-739C4B438485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03706C76-4AB0-44E1-BBD3-739C4B438485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03706C76-4AB0-44E1-BBD3-739C4B438485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03706C76-4AB0-44E1-BBD3-739C4B438485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFF4271-F85A-489A-BA33-F4C21AD2EF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFF4271-F85A-489A-BA33-F4C21AD2EF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFF4271-F85A-489A-BA33-F4C21AD2EF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFF4271-F85A-489A-BA33-F4C21AD2EF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8986FCC-7855-4F3C-A0F1-429D2661153B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8986FCC-7855-4F3C-A0F1-429D2661153B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8986FCC-7855-4F3C-A0F1-429D2661153B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8986FCC-7855-4F3C-A0F1-429D2661153B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9B0F14-FFB9-4B08-91C4-B79F1BD38663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9B0F14-FFB9-4B08-91C4-B79F1BD38663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9B0F14-FFB9-4B08-91C4-B79F1BD38663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9B0F14-FFB9-4B08-91C4-B79F1BD38663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E2C463F-8232-4547-941C-3119D8943B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2C463F-8232-4547-941C-3119D8943B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2C463F-8232-4547-941C-3119D8943B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2C463F-8232-4547-941C-3119D8943B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
