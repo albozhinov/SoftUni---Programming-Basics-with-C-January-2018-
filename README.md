@@ -1,1 +1,1 @@
-# SoftUni---Programming-Basics-with-C-January-2018-
+# SoftUni-Programming-Basics-January-2018-
